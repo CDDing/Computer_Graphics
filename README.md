@@ -8,6 +8,5 @@
 # Assignment 4
 - implement of Phong Shading and Gouraud Shading
 
-- 
 ![Phong](./result/Phong.png)
 ![Gouraud](./result/Gouraud.png)
